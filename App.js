@@ -5,7 +5,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       {/* Teks di tengah layar */}
-      <Text style={styles.text}>Teks di Tengah Layar</Text>
+      <Text style={styles.text}>Teknik Informatika</Text>
 
       {/* Dua kotak dengan properti flexbox */}
       <View style={styles.boxContainer}>
